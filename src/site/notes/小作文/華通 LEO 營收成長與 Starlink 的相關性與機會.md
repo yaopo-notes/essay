@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//leo-starlink/","tags":["投資研究","LEO","Starlink","PCB","產業分析"]}
+{"dg-publish":true,"permalink":"//leo-starlink/","tags":["投資研究","LEO","Starlink","PCB","產業分析","gardenEntry"]}
 ---
 
 
